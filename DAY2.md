@@ -91,6 +91,6 @@
 
 
 ### launch文件
-* <launch>
-* <node  name=”zwbz”  pkg=”turtlesim”  type=”turtlesim_node”  />	
-* </launch>
+<launch>
+<node  name=”zwbz”  pkg=”turtlesim”  type=”turtlesim_node”  />	
+</launch>
